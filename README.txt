@@ -1,4 +1,3 @@
-SER 416 Final Project
 03/01/2022
 Alex Zacco
 
